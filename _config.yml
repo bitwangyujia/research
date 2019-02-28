@@ -6,7 +6,7 @@ email: wangyujia@bit.edu.cn
 ##description: "Freshman21 is a Jekyll blog theme." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 ##keywords: "Jekyll, theme, Freshman21"
 baseurl: '/research' # the subpath of your site, e.g. /blog/
-url: "https://bitwangyujia.github.io/research/about/" # the base hostname & protocol for your site
+url: "https://bitwangyujia.github.io/research/" # the base hostname & protocol for your site
 locale: en_US
 port: 5001
 
@@ -40,7 +40,6 @@ locales:
       PostDate: "on "
       Google_search: "Site Search"
       Home: "Home"
-      About: "About"
       Publications: "Publication"
       Research: "Research"
       
