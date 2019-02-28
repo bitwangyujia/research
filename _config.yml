@@ -8,7 +8,7 @@ email: wangyujia@bit.edu.cn
 baseurl: '/research' # the subpath of your site, e.g. /blog/
 #url: "https://yulijia.net/freshman21" # the base hostname & protocol for your site
 locale: en_US
-#port: 5001
+port: 5001
 
 ### Personal info and site tools info:
 #twitter_username: yulijia
