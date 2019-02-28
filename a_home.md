@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Home
-permalink: /about/
+permalink: /research/
 ---
-
 ### **SHORT BIO**
 
 I am a PH.D. candidate of [Media Computing and Intelligent Systems Lab](http://iitlab.bit.edu.cn/mcislab/), 
