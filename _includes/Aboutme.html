@@ -1,0 +1,19 @@
+<div class="sidebar-module about">
+  <img title="{{site.author}}" src="https://github.com/bitwangyujia/home/blob/master/1.jpg?raw=true" alt="{{site.author}}"/>
+  <span>{{site.aboutme}}</span>
+  <br />
+
+  {% if site.ShowContactInfo == "True" %}
+
+  You can contact me via:<br>
+
+  {% if site.email != empty %}
+  <a href="mailto:{{site.email}}" title="mailto: {{site.email}}">Email</a> /
+  {% endif %}
+  {% if site.github_username != empty %}
+  <a href="https://github.com/{{site.github_username}}" title="GithubID: {{site.github_username}}">Github</a>
+  {% endif %}
+
+  {% endif %}
+
+</div>
