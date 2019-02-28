@@ -64,7 +64,7 @@ locales:
 
 
 ### Build settings
-markdown: kramdown
+#markdown: kramdown
 #highlighter: pygments
 kramdown:
         input: GFM
