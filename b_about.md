@@ -17,7 +17,8 @@ the director of Design Computing and Extended Reality (DCXR) Group, [George Maso
 **Research Interests:** Computer Vision, Computer Graphics, and HCI.
 <br><br>
 
-### **NEWS!**
+<span style="color:red;font-size:27px"><strong>NEWS!</strong></span>
+
 [2018.11] Our paper "3D Face Synthesis Driven by Personality Impression" was accepted by **AAAI 2019**.
 
 <br>
