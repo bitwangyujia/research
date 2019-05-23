@@ -33,7 +33,7 @@ permalink: /research/
 		<td valign="top">
 			<tf1> <b>Yujia Wang</b>, Wei Liang, Shenjian Bing, Yunde Jia, Lap-Fai Yu</tf1><br>
 			<tf1><strong>A Deep Coarse-to-Fine Network for Head Pose Estimation from Synthetic Data.</strong></tf1><br>
-			<tf1> Pattern Recognition (<strong>PR</strong>, 2019</tf1><br>
+			<tf1> Pattern Recognition (<strong>PR</strong>), 2019</tf1><br>
 			<tf1><a href="https://doi.org/10.1016/j.patcog.2019.05.026" target="_blank" rel="nofollow">Paper</a>, <a href="https://youtu.be/YHbn7A2dNi0" target="_blank" rel="nofollow">Video</a>, <a href="./all_bib.html#personality_face" target="_blank" rel="nofollow">Bibtex</a></tf1><br>
 		</td>						
 </tr>
