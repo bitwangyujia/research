@@ -12,7 +12,7 @@ permalink: /research/
 		<td valign="top" width="200px">
 		<img src="https://github.com/bitwangyujia/research/blob/master/images/face-m.gif?raw=true" width="200">
 		</td>
-		<td valign="top" width="300">
+		<td valign="top" width="400">
 			<tf1>Yining Lang, Wei Liang, <b>Yujia Wang</b>, Lap-Fai Yu</tf1><br>
 			<tf1><strong>3D Face Synthesis Driven by Personality Impression.</strong></tf1><br>
 			<tf1>AAAI Conference on Artificial Intelligence (<strong>AAAI 2019</strong>)</tf1><br>
@@ -30,7 +30,7 @@ permalink: /research/
 		<td valign="top" width="200px">
 		<img src="https://github.com/bitwangyujia/home/blob/master/face-m.gif?raw=true" width="200">
 		</td>
-		<td valign="top" width="300">
+		<td valign="top" width="400">
 			<tf1> <b>Yujia Wang</b>, Wei Liang, Shenjian Bing, Yunde Jia, Lap-Fai Yu</tf1><br>
 			<tf1><strong>A Deep Coarse-to-Fine Network for Head Pose Estimation from Synthetic Data.</strong></tf1><br>
 			<tf1> Pattern Recognition (<strong>PR</strong>), 2019</tf1><br>
