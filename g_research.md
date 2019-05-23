@@ -10,7 +10,7 @@ permalink: /research/
 
 <tr>
 		<td valign="top" width="200px">
-		<img src="https://github.com/bitwangyujia/home/blob/master/face-m.gif?raw=true" width="200">
+		<img src="https://github.com/bitwangyujia/research/blob/master/images/face-m.gif?raw=true" width="200">
 		</td>
 		<td valign="top">
 			<tf1>Yining Lang, Wei Liang, <b>Yujia Wang</b>, Lap-Fai Yu</tf1><br>
