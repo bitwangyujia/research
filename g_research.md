@@ -21,6 +21,9 @@ permalink: /research/
 </tr>
 </table>
 
+<br>
+#### **JOURNALS**
+
 <table border="0">
 
 <tr>
