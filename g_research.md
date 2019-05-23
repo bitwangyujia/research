@@ -6,7 +6,7 @@ permalink: /research/
 
 #### **CONFERENCES**
 
-<table border="0">
+<table border="0" width="550">
 
 <tr>
 		<td valign="top" width="200px">
@@ -24,7 +24,7 @@ permalink: /research/
 <br>
 #### **JOURNALS**
 
-<table border="0">
+<table border="0" width="550">
 
 <tr>
 		<td valign="top" width="200px">
