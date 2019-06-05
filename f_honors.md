@@ -12,6 +12,6 @@ permalink: /honors/
 <table>
           <tr>
             <td style="width:74px">2019</td>
-            <td>Best Paper Honorable Mention Award, CHI 2019</td>
+            <td>Chinese Government Scholarship, China Scholarship Council</td>
           </tr>		
 </table>
