@@ -28,7 +28,7 @@ permalink: /research/
 
 <tr>
 		<td valign="top" width="220px">
-		<img src="https://github.com/bitwangyujia/research/blob/master/images/head_pose_avatar.gif?raw=true" height="130">
+		<img src="https://github.com/bitwangyujia/research/blob/master/images/head_pose_avatar.gif?raw=true" width="200">
 		</td>
 		<td valign="top" width="400">
 			<tf1> <b>Yujia Wang</b>, Wei Liang, Shenjian Bing, Yunde Jia, Lap-Fai Yu</tf1><br>
