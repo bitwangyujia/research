@@ -17,5 +17,5 @@ year = "2019"
     journal={Pattern Recognition},
     year = {2019},
     publisher={Elsevier} 
-	}
+}
 </pre>
