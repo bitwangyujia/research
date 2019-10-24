@@ -10,7 +10,7 @@ permalink: /home/
 I am a PH.D. candidate of [Media Computing and Intelligent Systems Lab](http://iitlab.bit.edu.cn/mcislab/), 
 [Beijing Institute of Technology](http://www.bit.edu.cn/) (BIT), Beijing. I received my BS and MS degrees in Computer Science from BIT. 
 I am now advised by Professor [Yunde Jia](http://iitlab.bit.edu.cn/mcislab/~jiayunde/) and Professor 
-[Wei Liang](http://iitlab.bit.edu.cn/mcislab/~liangwei/). I also cooperate with Professor [Lap-Fai(Craig) Yu](https://craigyuyu.github.io/home/), 
+[Wei Liang](http://iitlab.bit.edu.cn/mcislab/~liangwei/). I also collaborate with Professor [Lap-Fai(Craig) Yu](https://craigyuyu.github.io/home/), 
 the director of Design Computing and Extended Reality (DCXR) Group, [George Mason University](http://www.gmu.edu/).
 
 **Email:** wangyujia[At]bit[Dot]edu[Dot]cn
