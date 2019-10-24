@@ -7,7 +7,17 @@ permalink: /research/
 #### **CONFERENCES**
 
 <table border="0">
-
+<tr>
+		<td valign="top" width="220px">
+		<img src="https://github.com/bitwangyujia/research/blob/master/images/face-m.gif?raw=true" width="200">
+		</td>
+		<td valign="top" width="400">
+			<tf1><b>Yujia Wang</b>, Wenguan Wang, Wei Liang, Lap-Fai Yu</tf1><br>
+			<tf1><strong>Comic-Guided Speech Synthesis.</strong></tf1><br>
+			<tf1>ACM Transactions on Graphics (<strong>Proceeding of SIGGRAPH Asia 2019</strong>)</tf1><br>
+			<tf1><a href="http://iitlab.bit.edu.cn/mcislab/~liangwei/projects/face/" target="_blank" rel="nofollow">Project Page</a>, <a href="http://iitlab.bit.edu.cn/mcislab/~liangwei/projects/face/aaai19-face_v8.pdf" target="_blank" rel="nofollow">Paper</a>, <a href="https://youtu.be/YHbn7A2dNi0" target="_blank" rel="nofollow">Video</a>, <a href="https://bitwangyujia.github.io/research/all_bib.html#personality_face" target="_blank" rel="nofollow">Bibtex</a></tf1><br>
+		</td>						
+</tr>
 <tr>
 		<td valign="top" width="220px">
 		<img src="https://github.com/bitwangyujia/research/blob/master/images/face-m.gif?raw=true" width="200">
