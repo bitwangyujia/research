@@ -60,12 +60,10 @@ background-color:#99CCFF;
 		</div>
 	</div>
 	<div class="row">
-		<div class="span1">
-					
-		</div>
-		<div class="span10">
+		
+		<div class="span12">
 		<br>
-		<img alt="100x100" src="images/comic2speech.png" style="width:700px"/>
+		<img src="images/comic2speech.png" height="410"/>
 		</div>
 		<div class="span1">
 		
@@ -78,16 +76,15 @@ background-color:#99CCFF;
 				Abstract
 			</h4>
 			 <p style="font-size:100%;text-align:justify;">
-				Various applications of human-computer interaction are based on the estimation of head pose, which
-is challenging due to different facial appearance, inhomogeneous illumination, partial occlusion, etc. In
-this paper, we propose a deep neural network following the Coarse-to-Fine strategy to estimate head
-poses. The scheme includes two branches: Coarse classification phase classifying the input image into four
-categories, and Fine Regression phase estimating the accurate pose parameters. The two sub-networks
-are trained jointly. To tackle the problem of insufficient annotated data in training process, we design a
-rendering pipeline to synthesize realistic head images and generate an annotated dataset with a collection
-of 310k head poses. The results on benchmark datasets and synthetic dataset validate the effectiveness
-of our approach, as well as the results on images with diverse illumination, occlusion, and motion blur.
-Moreover, our method can be easily extended to estimate head poses on depth images.</p>
+				We introduce a novel approach for synthesizing realistic speeches for comics. 
+				Using a comic page as input, our approach synthesizes speeches for each comic character following the reading flow.
+				It adopts a cascading strategy to synthesize speeches in two stages: Comic Visual Analysis and Comic Speech Synthesis. 
+				In the first stage, the input comic page is analyzed to identify the gender and age of the characters, 
+				as well as texts each character speaks and corresponding emotion. 
+				Guided by this analysis, in the second stage, our approach synthesizes realistic speeches for each character, 
+				which are consistent with the visual observations. 
+				Our experiments show that the proposed approach can synthesize realistic and lively speeches for different types of comics. 
+				Perceptual studies performed on the synthesis results of multiple sample comics validate the efficacy of our approach.</p>
 			
 		</div>
 	</div>
@@ -98,7 +95,7 @@ Moreover, our method can be easily extended to estimate head poses on depth imag
 				Keywords
 			</h4>
 			 <p style="font-size:100%;text-align:justify;">
-				Head pose estimation, Coarse-to-Fine, Joint learning.</p>
+				Comics, Speech Synthesis, Deep Learning.</p>
 			
 		</div>
 	</div>
@@ -110,18 +107,17 @@ Moreover, our method can be easily extended to estimate head poses on depth imag
 				Publication
 			</h4>
 
-  <p align="left"><strong>A Deep Coarse-to-Fine Network for Head Pose Estimation from Synthetic Data</strong><br>
+  <p align="left"><strong>Comic-Guided Speech Synthesis</strong><br>
 
 	Yujia Wang,
-    Wei Liang,
-	Jianbing Shen,
-	Yunde Jia,
-    Lap-Fai Yu
+    Wenguan Wang,
+	Wei Liang,
+	Lap-Fai Yu
 	
 	<!--<a href="http://www.stat.ucla.edu/~ybzhao/"  style="vertical-align: middle;color:#99CCFF">Yibiao Zhao</a>,-->
     
-	<br> Pattern Recognition <b>(PR 2019)</b>
-	<br><a href="http://liangwei-bit.github.io/web/project/headpose/PR-headpose-2019.pdf"  style="vertical-align: middle;color:#99CCFF">Paper</a>
+	<br> ACM Transactions on Graphics  <b>(Proceeding of SIGGRAPH Asia 2019)</b>
+	<br><a href="https://bitwangyujia.github.io/research/paper/siga19-comic.pdf""  style="vertical-align: middle;color:#99CCFF">Paper</a>
 	<span class="bodyText STYLE3">, <a href="http://liangwei-bit.github.io/web/project/headpose/head_pose_estimation_PR.mp4"  style="vertical-align: middle;color:#99CCFF">Video</a>
 	<span class="bodyText STYLE3">, <a href=""  style="vertical-align: middle;color:#99CCFF">Data(Coming Soon)</a>
 	<br>
@@ -130,21 +126,26 @@ Moreover, our method can be easily extended to estimate head poses on depth imag
 	<h4>BibTex</h4>
 
 
-<p align="left">@article{wang2019deep,<br>
+<p align="left">@article{comic2019wang,<br>
 
 &nbsp;&nbsp;&nbsp;
 title=
-{A Deep Coarse-to-Fine Network for Head Pose Estimation from Synthetic Data},<br>
+{Comic-Guided Speech Synthesis},<br>
 
-&nbsp;&nbsp;&nbsp; author = {Wang, Yujia and Liang, Wei and Shen, Jianbing and Jia, Yunde and Yu, Lap-Fai},
+&nbsp;&nbsp;&nbsp; author = {Wang, Yujia and Wenguan, Wang and Liang, Wei and Yu, Lap-Fai},
 
 <br> &nbsp;&nbsp;&nbsp;
-journal={Pattern Recognition},<br>
-&nbsp;&nbsp;&nbsp; year = {2019},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;publisher={Elsevier}
+journal={ACM Transactions on Graphics},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;volume = {38},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;number = {6},<br>
+&nbsp;&nbsp;&nbsp; year = {2019}
 <!--&nbsp;&nbsp;&nbsp; publisher = {IEEE}<br>-->
 
 }</p>
+
+
+
+
 
 <br><br>
 <p class="text-center">
