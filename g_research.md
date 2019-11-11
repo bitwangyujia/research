@@ -26,7 +26,7 @@ permalink: /research/
 			<tf1>Yining Lang, Wei Liang, <b>Yujia Wang</b>, Lap-Fai Yu</tf1><br>
 			<tf1><strong>3D Face Synthesis Driven by Personality Impression.</strong></tf1><br>
 			<tf1>AAAI Conference on Artificial Intelligence (<strong>AAAI 2019</strong>)</tf1><br>
-			<tf1><a href="https://liangwei-bit.github.io/web/project/face/" target="_blank" rel="nofollow">Project Page</a>, <a href="https://liangwei-bit.github.io/web/project/face/aaai19-face_v8.pdf" target="_blank" rel="nofollow">Paper</a>, <a href="https://youtu.be/YHbn7A2dNi0" target="_blank" rel="nofollow">Video</a>, <a href="https://bitwangyujia.github.io/research/all_bib.html#personality_face" target="_blank" rel="nofollow">Bibtex</a></tf1><br>
+			<tf1><a href="https://liangwei-bit.github.io/web/project/headpose/" target="_blank" rel="nofollow">Project Page</a>, <a href="https://liangwei-bit.github.io/web/project/face/aaai19-face_v8.pdf" target="_blank" rel="nofollow">Paper</a>, <a href="https://youtu.be/YHbn7A2dNi0" target="_blank" rel="nofollow">Video</a>, <a href="https://bitwangyujia.github.io/research/all_bib.html#personality_face" target="_blank" rel="nofollow">Bibtex</a></tf1><br>
 		</td>						
 </tr>
 </table>
