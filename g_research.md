@@ -9,7 +9,7 @@ permalink: /research/
 <table border="0">
 <tr>
 		<td valign="top" width="220px">
-		<img src="" width="200">
+		<img src="https://github.com/bitwangyujia/research/blob/master/images/comic20speech.png?raw=true" width="200">
 		</td>
 		<td valign="top" width="400">
 			<tf1><b>Yujia Wang</b>, Wenguan Wang, Wei Liang, Lap-Fai Yu</tf1><br>
