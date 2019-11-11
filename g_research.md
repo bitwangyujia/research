@@ -15,7 +15,7 @@ permalink: /research/
 			<tf1><b>Yujia Wang</b>, Wenguan Wang, Wei Liang, Lap-Fai Yu</tf1><br>
 			<tf1><strong>Comic-Guided Speech Synthesis.</strong></tf1><br>
 			<tf1>ACM Transactions on Graphics (<strong>Proceeding of SIGGRAPH Asia 2019</strong>)</tf1><br>
-			<tf1><a href="https://bitwangyujia.github.io/research/project/comic2speech.html" target="_blank" rel="nofollow">Project Page</a>, <a href="https://bitwangyujia.github.io/research/paper/siga19-comic.pdf" target="_blank" rel="nofollow">Paper</a>, <a href="" target="_blank" rel="nofollow">Video</a>, <a href="https://bitwangyujia.github.io/research/all_bib.html#comic_speech" target="_blank" rel="nofollow">Bibtex</a></tf1><br>
+			<tf1><a href="https://bitwangyujia.github.io/research/project/comic2speech.html" target="_blank" rel="nofollow">Project Page</a>, <a href="https://bitwangyujia.github.io/research/paper/siga19-comic.pdf" target="_blank" rel="nofollow">Paper</a>, <a href="https://youtu.be/2cOgWoejbr8" target="_blank" rel="nofollow">Video</a>, <a href="https://bitwangyujia.github.io/research/all_bib.html#comic_speech" target="_blank" rel="nofollow">Bibtex</a></tf1><br>
 		</td>						
 </tr>
 <tr>
