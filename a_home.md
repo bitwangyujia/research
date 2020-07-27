@@ -23,7 +23,7 @@ the director of Design Computing and Extended Reality (DCXR) Group, [George Maso
 
 ◆ [2020.07] Our paper "Scene-Aware Background Music Synthesis" has been conditionally accepted by **ACM MM 2020**. 
 <br>
-◆ [2020.07] Our paper "Photo Stand-Out: Photography with Virtual Character" has been accepted by **ACM MM 2020**. 
+◆ [2020.07] Our paper "Photo Stand-Out: Photography with Virtual Character" has been conditionally accepted by **ACM MM 2020**. 
 <br>
 ◆ [2019.08] Our paper "Comic-Guided Speech Synthesis" has been conditionally accepted by **ACM SIGGRAPH Asia 2019**. 
 <br>
