@@ -15,7 +15,7 @@ permalink: /research/
 			<tf1><b>Yujia Wang</b>, Wei Liang, Wanwan Li, Dingzeyu Li, Lap-Fai Yu</tf1><br>
 			<tf1><strong>Comic-Guided Speech Synthesis.</strong></tf1><br>
 			<tf1>ACM Multimedia Conference (<strong>MM 2020</strong>)</tf1><br>
-			<tf1><a href="https://bitwangyujia.github.io/research/project/scene2music.html" target="_blank" rel="nofollow">Project Page</a>, <a href="https://bitwangyujia.github.io/research/paper/siga19-comic.pdf" target="_blank" rel="nofollow">Paper</a>, <a href="https://www.youtube.com/watch?v=2cOgWoejbr8&feature=youtu.be" target="_blank" rel="nofollow">Video</a>, <a href="https://bitwangyujia.github.io/research/all_bib.html#comic_speech" target="_blank" rel="nofollow">Bibtex</a></tf1><br>
+			<tf1><a href="https://bitwangyujia.github.io/research/project/scene2music.html" target="_blank" rel="nofollow">Project Page</a>, <a href="https://bitwangyujia.github.io/research/paper/MM-music.pdf" target="_blank" rel="nofollow">Paper</a>, <a href="https://youtu.be/fG2u2QG8ejU" target="_blank" rel="nofollow">Video</a>, <a href="https://bitwangyujia.github.io/research/all_bib.html#comic_speech" target="_blank" rel="nofollow">Bibtex</a></tf1><br>
 		</td>						
 </tr>
 <tr>
