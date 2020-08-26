@@ -8,7 +8,7 @@ permalink: /research/
 
 <table border="0">
 <tr>
-		<td valign="top" width="230px">
+		<td valign="top" width="220px">
 		<img src="https://github.com/bitwangyujia/research/blob/master/images/scene2bgm.png?raw=true" width="200">
 		</td>
 		<td valign="top" width="400">
@@ -44,7 +44,6 @@ permalink: /research/
 </tr>
 <tr>
 		<td valign="top" width="220px">
-		<br>
 		<img src="https://github.com/bitwangyujia/research/blob/master/images/face-m.gif?raw=true" width="200">
 		</td>
 		<td valign="top" width="400">
