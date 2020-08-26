@@ -27,7 +27,7 @@ permalink: /research/
 			<tf1><b>Yujia Wang</b>, Sifan Hou, Bing Ning, Wei Liang</tf1><br>
 			<tf1><strong>Photo Stand-Out: Photography with Virtual Character.</strong></tf1><br>
 			<tf1>ACM Multimedia Conference (<strong>MM 2020</strong>)</tf1><br>
-			<p style="color:#1E90FF">Oral Presentation</p><br>
+			<font color="blue">Oral Presentation</font><br>
 			<tf1><a href="https://bitwangyujia.github.io/research/project/posesynthesis.html" target="_blank" rel="nofollow">Project Page</a>, <a href="https://bitwangyujia.github.io/research/paper/MM-pose.pdf" target="_blank" rel="nofollow">Paper</a>, <a href="https://youtu.be/0BS8AgvpWA8" target="_blank" rel="nofollow">Video</a>, <a href="https://bitwangyujia.github.io/research/all_bib.html#character_pose" target="_blank" rel="nofollow">Bibtex</a></tf1><br>
 		</td>						
 </tr>
