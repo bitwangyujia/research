@@ -9,7 +9,7 @@ permalink: /research/
 <table border="0">
 <tr>
 		<td valign="top" width="220px">
-		<img src="https://github.com/bitwangyujia/research/blob/master/images/scene2bgm.png?raw=true" width="200">
+		<img src="https://github.com/bitwangyujia/research/blob/master/images/scene2bgm.png?raw=true" width="220">
 		</td>
 		<td valign="top" width="400">
 			<tf1><b>Yujia Wang</b>, Wei Liang, Wanwan Li, Dingzeyu Li, Lap-Fai Yu</tf1><br>
@@ -21,7 +21,7 @@ permalink: /research/
 </tr>
 <tr>
 		<td valign="top" width="220px">
-		<img src="https://github.com/bitwangyujia/research/blob/master/images/characterpose.png?raw=true" width="200">
+		<img src="https://github.com/bitwangyujia/research/blob/master/images/characterpose.png?raw=true" width="220">
 		</td>
 		<td valign="top" width="400">
 			<tf1><b>Yujia Wang</b>, Sifan Hou, Bing Ning, Wei Liang</tf1><br>
