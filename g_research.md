@@ -15,7 +15,7 @@ permalink: /research/
 			<tf1><b>Yujia Wang</b>, Wei Liang, Wanwan Li, Dingzeyu Li, Lap-Fai Yu</tf1><br>
 			<tf1><strong>Scene-Aware Background Music Synthesis.</strong></tf1><br>
 			<tf1>ACM Multimedia Conference (<strong>MM 2020</strong>)</tf1><br>
-			<tf2>Oral Presentation</tf2><br>
+			<p style="color:#1E90FF";>Oral Presentation</tf2><br>
 			<tf1><a href="https://bitwangyujia.github.io/research/project/scene2music.html" target="_blank" rel="nofollow">Project Page</a>, <a href="https://bitwangyujia.github.io/research/paper/MM-music.pdf" target="_blank" rel="nofollow">Paper</a>, <a href="https://youtu.be/fG2u2QG8ejU" target="_blank" rel="nofollow">Video</a>, <a href="https://bitwangyujia.github.io/research/all_bib.html#scene_music" target="_blank" rel="nofollow">Bibtex</a></tf1><br>
 		</td>						
 </tr>
