@@ -15,7 +15,7 @@ permalink: /research/
 			<tf1><b>Yujia Wang</b>, Wei Liang, Wanwan Li, Dingzeyu Li, Lap-Fai Yu</tf1><br>
 			<tf1><strong>Scene-Aware Background Music Synthesis.</strong></tf1><br>
 			<tf1>ACM Multimedia Conference (<strong>MM 2020</strong>)</tf1><br>
-			<p style="color:#1E90FF">Oral Presentation</p>
+			<p style="color:#1E90FF">Oral Presentation (9% acceptance rate)</p>
 			<tf1><a href="https://bitwangyujia.github.io/research/project/scene2music.html" target="_blank" rel="nofollow">Project Page</a>, <a href="https://bitwangyujia.github.io/research/paper/MM-music.pdf" target="_blank" rel="nofollow">Paper</a>, <a href="https://youtu.be/fG2u2QG8ejU" target="_blank" rel="nofollow">Video</a>, <a href="https://bitwangyujia.github.io/research/all_bib.html#scene_music" target="_blank" rel="nofollow">Bibtex</a></tf1><br>
 		</td>						
 </tr>
@@ -27,7 +27,7 @@ permalink: /research/
 			<tf1><b>Yujia Wang</b>, Sifan Hou, Bing Ning, Wei Liang</tf1><br>
 			<tf1><strong>Photo Stand-Out: Photography with Virtual Character.</strong></tf1><br>
 			<tf1>ACM Multimedia Conference (<strong>MM 2020</strong>)</tf1><br>
-			<p style="color:#1E90FF">Oral Presentation</p>
+			<p style="color:#1E90FF">Oral Presentation (9% acceptance rate)</p>
 			<tf1><a href="https://bitwangyujia.github.io/research/project/posesynthesis.html" target="_blank" rel="nofollow">Project Page</a>, <a href="https://bitwangyujia.github.io/research/paper/MM-pose.pdf" target="_blank" rel="nofollow">Paper</a>, <a href="https://youtu.be/0BS8AgvpWA8" target="_blank" rel="nofollow">Video</a>, <a href="https://bitwangyujia.github.io/research/all_bib.html#character_pose" target="_blank" rel="nofollow">Bibtex</a></tf1><br>
 		</td>						
 </tr>
