@@ -9,6 +9,17 @@ permalink: /research/
 <table border="0">
 <tr>
 		<td valign="top" width="220px">
+		<img src="https://github.com/bitwangyujia/research/blob/master/images/ad.png?raw=true" width="220">
+		</td>
+		<td valign="top" width="400">
+			<tf1><b>Yujia Wang</b>, Wei Liang, Haikun Huang, Yongqi Zhang, Dingzeyu Li, Lap-Fai Yu</tf1><br>
+			<tf1><strong>Toward Automatic Audio Description Generation for Accessible Videos.</strong></tf1><br>
+			<tf1>Proceedings of the ACM Conference on Human Factors in Computing Systems (<strong>CHI 2021</strong>)</tf1><br>
+			<tf1><a href="https://bitwangyujia.github.io/research/project/scene2music.html" target="_blank" rel="nofollow">Project Page</a>, <a href="https://bitwangyujia.github.io/research/paper/MM-music.pdf" target="_blank" rel="nofollow">Paper</a>, <a href="https://youtu.be/fG2u2QG8ejU" target="_blank" rel="nofollow">Video</a>, <a href="https://bitwangyujia.github.io/research/all_bib.html#scene_music" target="_blank" rel="nofollow">Bibtex</a></tf1><br>
+		</td>						
+</tr>
+<tr>
+		<td valign="top" width="220px">
 		<img src="https://github.com/bitwangyujia/research/blob/master/images/scene2bgm.png?raw=true" width="220">
 		</td>
 		<td valign="top" width="400">
