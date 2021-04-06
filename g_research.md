@@ -4,12 +4,42 @@ title: Research
 permalink: /research/
 ---
 
+
+#### **JOURNALS**
+
+<table border="0">
+<tr>
+		<td valign="top" width="220px">
+		<img src="https://github.com/bitwangyujia/research/blob/master/images/comic20speech.png?raw=true" width="200">
+		</td>
+		<td valign="top" width="400">
+			<tf1><b>Yujia Wang</b>, Wenguan Wang, Wei Liang, Lap-Fai Yu</tf1><br>
+			<tf1><strong>Comic-Guided Speech Synthesis.</strong></tf1><br>
+			<tf1>ACM Transactions on Graphics (<strong>Proceeding of SIGGRAPH Asia 2019</strong>)</tf1><br>
+			<tf1><a href="https://bitwangyujia.github.io/research/project/comic2speech.html" target="_blank" rel="nofollow">Project Page</a>, <a href="https://bitwangyujia.github.io/research/paper/siga19-comic.pdf" target="_blank" rel="nofollow">Paper</a>, <a href="https://www.youtube.com/watch?v=2cOgWoejbr8&feature=youtu.be" target="_blank" rel="nofollow">Video</a>, <a href="https://bitwangyujia.github.io/research/all_bib.html#comic_speech" target="_blank" rel="nofollow">Bibtex</a></tf1><br>
+		</td>						
+</tr>
+<tr>
+		<td valign="top" width="220px">
+		<img src="https://github.com/bitwangyujia/research/blob/master/images/head_pose_avatar.gif?raw=true" width="200">
+		</td>
+		<td valign="top" width="400">
+			<tf1> <b>Yujia Wang</b>, Wei Liang, Shenjian Bing, Yunde Jia, Lap-Fai Yu</tf1><br>
+			<tf1><strong>A Deep Coarse-to-Fine Network for Head Pose Estimation from Synthetic Data.</strong></tf1><br>
+			<tf1> Pattern Recognition (<strong>PR</strong>), 2019</tf1><br>
+			<tf1><a href="https://liangwei-bit.github.io/web/project/headpose/" target="_blank" rel="nofollow">Project Page</a>, <a href="https://bitwangyujia.github.io/research/paper/PR-headpose-2019.pdf" target="_blank" rel="nofollow">Paper</a>, <a href="http://iitlab.bit.edu.cn/mcislab/~liangwei/projects/headpose/head_pose_estimation_PR.mp4" target="_blank" rel="nofollow">Video</a>, <a href="https://bitwangyujia.github.io/research/all_bib.html#head_pose" target="_blank" rel="nofollow">Bibtex</a></tf1><br>
+		</td>						
+</tr>
+</table>
+
+<br>
+
 #### **CONFERENCES**
 
 <table border="0">
 <tr>
 		<td valign="top" width="220px">
-		<img src="https://github.com/bitwangyujia/research/blob/master/images/ad.png?raw=true" width="220">
+		<img src="https://github.com/bitwangyujia/research/blob/master/images/dresssynthesis.png?raw=true" width="220">
 		</td>
 		<td valign="top" width="400">
 			<tf1>Sifan Hou, <b>Yujia Wang</b>, Wei Liang, Bing Ning</tf1><br>
@@ -67,29 +97,3 @@ permalink: /research/
 </table>
 
 <br>
-#### **JOURNALS**
-
-<table border="0">
-<tr>
-		<td valign="top" width="220px">
-		<img src="https://github.com/bitwangyujia/research/blob/master/images/comic20speech.png?raw=true" width="200">
-		</td>
-		<td valign="top" width="400">
-			<tf1><b>Yujia Wang</b>, Wenguan Wang, Wei Liang, Lap-Fai Yu</tf1><br>
-			<tf1><strong>Comic-Guided Speech Synthesis.</strong></tf1><br>
-			<tf1>ACM Transactions on Graphics (<strong>Proceeding of SIGGRAPH Asia 2019</strong>)</tf1><br>
-			<tf1><a href="https://bitwangyujia.github.io/research/project/comic2speech.html" target="_blank" rel="nofollow">Project Page</a>, <a href="https://bitwangyujia.github.io/research/paper/siga19-comic.pdf" target="_blank" rel="nofollow">Paper</a>, <a href="https://www.youtube.com/watch?v=2cOgWoejbr8&feature=youtu.be" target="_blank" rel="nofollow">Video</a>, <a href="https://bitwangyujia.github.io/research/all_bib.html#comic_speech" target="_blank" rel="nofollow">Bibtex</a></tf1><br>
-		</td>						
-</tr>
-<tr>
-		<td valign="top" width="220px">
-		<img src="https://github.com/bitwangyujia/research/blob/master/images/head_pose_avatar.gif?raw=true" width="200">
-		</td>
-		<td valign="top" width="400">
-			<tf1> <b>Yujia Wang</b>, Wei Liang, Shenjian Bing, Yunde Jia, Lap-Fai Yu</tf1><br>
-			<tf1><strong>A Deep Coarse-to-Fine Network for Head Pose Estimation from Synthetic Data.</strong></tf1><br>
-			<tf1> Pattern Recognition (<strong>PR</strong>), 2019</tf1><br>
-			<tf1><a href="https://liangwei-bit.github.io/web/project/headpose/" target="_blank" rel="nofollow">Project Page</a>, <a href="https://bitwangyujia.github.io/research/paper/PR-headpose-2019.pdf" target="_blank" rel="nofollow">Paper</a>, <a href="http://iitlab.bit.edu.cn/mcislab/~liangwei/projects/headpose/head_pose_estimation_PR.mp4" target="_blank" rel="nofollow">Video</a>, <a href="https://bitwangyujia.github.io/research/all_bib.html#head_pose" target="_blank" rel="nofollow">Bibtex</a></tf1><br>
-		</td>						
-</tr>
-</table>
