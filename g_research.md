@@ -12,6 +12,17 @@ permalink: /research/
 		<img src="https://github.com/bitwangyujia/research/blob/master/images/ad.png?raw=true" width="220">
 		</td>
 		<td valign="top" width="400">
+			<tf1>Sifan Hou, <b>Yujia Wang</b>, Wei Liang, Bing Ning</tf1><br>
+			<tf1><strong>Climaxing VR Character with Scene-Aware Aesthetic Dress Synthesis.</strong></tf1><br>
+			<tf1>IEEE Virtual Reality (<strong>VR 2021</strong>)</tf1><br>
+			<tf1><a href="https://bitwangyujia.github.io/research/project/dresssynthesis.html" target="_blank" rel="nofollow">Project Page</a>, <a href="https://bitcynthia.github.io/homepage/research/paper/VR_dress.pdf" target="_blank" rel="nofollow">Paper</a>, <a href="https://youtu.be/5fOAPo1Z4pc" target="_blank" rel="nofollow">Video</a>, <a href="https://bitwangyujia.github.io/research/all_bib.html#dress_synthesis" target="_blank" rel="nofollow">Bibtex</a></tf1><br>
+		</td>						
+</tr>
+<tr>
+		<td valign="top" width="220px">
+		<img src="https://github.com/bitwangyujia/research/blob/master/images/ad.png?raw=true" width="220">
+		</td>
+		<td valign="top" width="400">
 			<tf1><b>Yujia Wang</b>, Wei Liang, Haikun Huang, Yongqi Zhang, Dingzeyu Li, Lap-Fai Yu</tf1><br>
 			<tf1><strong>Toward Automatic Audio Description Generation for Accessible Videos.</strong></tf1><br>
 			<tf1>ACM Conference on Human Factors in Computing Systems (<strong>CHI 2021</strong>)</tf1><br>
@@ -44,17 +55,6 @@ permalink: /research/
 </tr>
 <tr>
 		<td valign="top" width="220px">
-		<img src="https://github.com/bitwangyujia/research/blob/master/images/comic20speech.png?raw=true" width="200">
-		</td>
-		<td valign="top" width="400">
-			<tf1><b>Yujia Wang</b>, Wenguan Wang, Wei Liang, Lap-Fai Yu</tf1><br>
-			<tf1><strong>Comic-Guided Speech Synthesis.</strong></tf1><br>
-			<tf1>ACM Transactions on Graphics (<strong>Proceeding of SIGGRAPH Asia 2019</strong>)</tf1><br>
-			<tf1><a href="https://bitwangyujia.github.io/research/project/comic2speech.html" target="_blank" rel="nofollow">Project Page</a>, <a href="https://bitwangyujia.github.io/research/paper/siga19-comic.pdf" target="_blank" rel="nofollow">Paper</a>, <a href="https://www.youtube.com/watch?v=2cOgWoejbr8&feature=youtu.be" target="_blank" rel="nofollow">Video</a>, <a href="https://bitwangyujia.github.io/research/all_bib.html#comic_speech" target="_blank" rel="nofollow">Bibtex</a></tf1><br>
-		</td>						
-</tr>
-<tr>
-		<td valign="top" width="220px">
 		<img src="https://github.com/bitwangyujia/research/blob/master/images/face-m.gif?raw=true" width="200">
 		</td>
 		<td valign="top" width="400">
@@ -70,7 +70,17 @@ permalink: /research/
 #### **JOURNALS**
 
 <table border="0">
-
+<tr>
+		<td valign="top" width="220px">
+		<img src="https://github.com/bitwangyujia/research/blob/master/images/comic20speech.png?raw=true" width="200">
+		</td>
+		<td valign="top" width="400">
+			<tf1><b>Yujia Wang</b>, Wenguan Wang, Wei Liang, Lap-Fai Yu</tf1><br>
+			<tf1><strong>Comic-Guided Speech Synthesis.</strong></tf1><br>
+			<tf1>ACM Transactions on Graphics (<strong>Proceeding of SIGGRAPH Asia 2019</strong>)</tf1><br>
+			<tf1><a href="https://bitwangyujia.github.io/research/project/comic2speech.html" target="_blank" rel="nofollow">Project Page</a>, <a href="https://bitwangyujia.github.io/research/paper/siga19-comic.pdf" target="_blank" rel="nofollow">Paper</a>, <a href="https://www.youtube.com/watch?v=2cOgWoejbr8&feature=youtu.be" target="_blank" rel="nofollow">Video</a>, <a href="https://bitwangyujia.github.io/research/all_bib.html#comic_speech" target="_blank" rel="nofollow">Bibtex</a></tf1><br>
+		</td>						
+</tr>
 <tr>
 		<td valign="top" width="220px">
 		<img src="https://github.com/bitwangyujia/research/blob/master/images/head_pose_avatar.gif?raw=true" width="200">
