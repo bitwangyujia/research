@@ -107,7 +107,7 @@ permalink: /research/
 		</td>
 		<td valign="top" width="400">
 			<tf1>Hao Chen, <b>Yujia Wang</b>, Wei Liang</tf1><br>
-			<tf1><strongVCoach: Enabling Personalized Boxing Training in Virtual Reality.</strong></tf1><br>
+			<tf1><strong>VCoach: Enabling Personalized Boxing Training in Virtual Reality.</strong></tf1><br>
 			<tf1>2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW) (<strong>IEEE VR Poster</strong>)</tf1><br>
 			<tf1><a href="https://bitwangyujia.github.io/research/paper/VRPoster22-VCoac.pdf" target="_blank" rel="nofollow">Paper</a>, <a href="https://youtu.be/bVH0yf5FKUw" target="_blank" rel="nofollow">Video</a>, <a href="https://bitwangyujia.github.io/research/all_bib.html#moving_furniture" target="_blank" rel="nofollow">Bibtex</a></tf1><br>
 		</td>						
