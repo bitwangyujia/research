@@ -96,6 +96,8 @@ permalink: /research/
 </tr>
 </table>
 
+<br>
+
 #### **Workshops**
 
 <table border="0">
