@@ -96,4 +96,34 @@ permalink: /research/
 </tr>
 </table>
 
+#### **Workshops**
+
+<table border="0">
+<tr>
+		<td valign="top" width="220px">
+		<img src="https://github.com/bitwangyujia/research/blob/master/images/VCoach_teaser.png?raw=true" width="200">
+		</td>
+		<td valign="top" width="400">
+			<tf1>Hao Chen, <b>Yujia Wang</b>, Wei Liang</tf1><br>
+			<tf1><strongVCoach: Enabling Personalized Boxing Training in Virtual Reality.</strong></tf1><br>
+			<tf1>2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW) (<strong>IEEE VR Poster</strong>)</tf1><br>
+			<tf1><a href="https://bitwangyujia.github.io/research/paper/VRPoster22-VCoac.pdf" target="_blank" rel="nofollow">Paper</a>, <a href="https://youtu.be/bVH0yf5FKUw" target="_blank" rel="nofollow">Video</a>, <a href="https://bitwangyujia.github.io/research/all_bib.html#moving_furniture" target="_blank" rel="nofollow">Bibtex</a></tf1><br>
+		</td>						
+</tr>
+<tr>
+		<td valign="top" width="220px">
+		<img src="https://github.com/bitwangyujia/research/blob/master/images/head_pose_avatar.gif?raw=true" width="200">
+		</td>
+		<td valign="top" width="400">
+			<tf1> Shihao Song, <b>Yujia Wang</b>, Wei Liang, Xiangyuan Li</tf1><br>
+			<tf1><strong>Moving Soon? Rearranging Furniture using Mixed Reality.</strong></tf1><br>
+			<tf1> 2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW) (<strong>IEEE VR Poster</strong>)</tf1><br>
+			<tf1><a href="https://bitwangyujia.github.io/research/paper/VRPoster22-MovingFurniture.pdf" target="_blank" rel="nofollow">Paper</a>, <a href="https://youtu.be/6m-JRvDGkvA" target="_blank" rel="nofollow">Video</a>, <a href="https://bitwangyujia.github.io/research/all_bib.html#vcoach" target="_blank" rel="nofollow">Bibtex</a></tf1><br>
+		</td>						
+</tr>
+</table>
+
+<br>
+
+
 <br>
