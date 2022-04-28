@@ -114,7 +114,7 @@ permalink: /research/
 </tr>
 <tr>
 		<td valign="top" width="220px">
-		<img src="https://github.com/bitwangyujia/research/blob/master/images/head_pose_avatar.gif?raw=true" width="200">
+		<img src="https://github.com/bitwangyujia/research/blob/master/images/MovingFurniture.jpg?raw=true" width="200">
 		</td>
 		<td valign="top" width="400">
 			<tf1> Shihao Song, <b>Yujia Wang</b>, Wei Liang, Xiangyuan Li</tf1><br>
