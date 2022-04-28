@@ -10,7 +10,7 @@ permalink: /home/
 
 I am now a postdoctoral research fellow at [Intelligent Media Computing Lab](https://vmcl.bnu.edu.cn/) 
 at [Beijing Normal University](https://www.bnu.edu.cn/).
-I also collaborate with Professor [Hua Huang](https://vmcl.bnu.edu.cn/group/teacher/teacher01.html).
+I collaborate with Professor [Hua Huang](https://vmcl.bnu.edu.cn/group/teacher/teacher01.html), who lead the Intelligent Media Computing Lab.
 I received my Ph.D. degree in Computer Science from [Beijing Institute of Technology](http://www.bit.edu.cn/) (BIT),
  where I was advised by Professor [Wei Liang](https://liangwei-bit.github.io/web/) 
 and Professor [Yunde Jia](http://iitlab.bit.edu.cn/mcislab/~jiayunde/).
