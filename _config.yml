@@ -14,7 +14,7 @@ port: 5001
 #twitter_username: yulijia
 #github_username:  yulijia
 #disqus_shortname: freshman21
-favicon:     "/images/9.ico"
+favicon:     "/images/bnu_logo.png"
 aboutme: Hi, this is <strong>Yujia Wang</strong>. <br> Every passing minute is another chance to turn it all around. # these are shown on aboutme-sidebar.
 google_analytics_key: UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
 
