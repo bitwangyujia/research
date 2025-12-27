@@ -25,7 +25,10 @@ and was advised by Professor [Lap-Fai(Craig) Yu](https://craigyuyu.github.io/hom
 
 <span style="color:red;font-size:27px"><strong>NEWS!</strong></span>
 
+◆ [2025.07] Our paper “Audio-Visual LLM for Augmenting Accessibility of 360° Video” has been accepted by **IEEE TCSVT**.
+<br>
 ◆ [2024.11] Our paper “Audio–visual deepfake detection using articulatory representation learning” has been accepted by **CVIU**.
+<br>
 ◆ [2024.07] Our paper "AutoSFX: Automatic Sound Effect Generation for Videos" has been accepted by **ACM MM 2024**. 
 <br>
 ◆ [2024.07] Our paper "ArtSpeech: Adaptive Text-to-Speech Synthesis with Articulatory Representations" has been accepted by **ACM MM 2024**. 
