@@ -11,8 +11,7 @@ permalink: /home/
 I am now an associate professor at [Zhejiang Sci-Tech University](https://www.zstu.edu.cn/). I collaborated with Professor [Hua Huang](https://vmcl.bnu.edu.cn/group/teacher/teacher01.html) [Intelligent Media Computing Lab](https://vmcl.bnu.edu.cn/) 
 at [Beijing Normal University](https://www.bnu.edu.cn/) when I was a Posdoc researcher.
 I received my Ph.D. degree in Computer Science from [Beijing Institute of Technology](http://www.bit.edu.cn/) (BIT),
- where I was advised by Professor [Wei Liang](https://liangwei-bit.github.io/web/) 
-and Professor [Yunde Jia](http://iitlab.bit.edu.cn/mcislab/~jiayunde/).
+ where I was advised by Professor [Wei Liang](https://liangwei-bit.github.io/web/).
 I worked at [Media Computing and Intelligent Systems Lab](http://iitlab.bit.edu.cn/mcislab/).
 I was a visiting researcher at the Design Computing and Extended Reality (DCXR) Group at [George Mason University](http://www.gmu.edu/),
 and was advised by Professor [Lap-Fai(Craig) Yu](https://craigyuyu.github.io/home/).
