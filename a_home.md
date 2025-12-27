@@ -8,7 +8,7 @@ permalink: /home/
 ### **SHORT BIO**
 
 
-I am now an associate professor research fellow at [Zhejiang Sci-Tech University](https://www.zstu.edu.cn/). I collaborated with Professor [Hua Huang](https://vmcl.bnu.edu.cn/group/teacher/teacher01.html) [Intelligent Media Computing Lab](https://vmcl.bnu.edu.cn/) 
+I am now an associate professor at [Zhejiang Sci-Tech University](https://www.zstu.edu.cn/). I collaborated with Professor [Hua Huang](https://vmcl.bnu.edu.cn/group/teacher/teacher01.html) [Intelligent Media Computing Lab](https://vmcl.bnu.edu.cn/) 
 at [Beijing Normal University](https://www.bnu.edu.cn/) when I was a Posdoc researcher.
 I received my Ph.D. degree in Computer Science from [Beijing Institute of Technology](http://www.bit.edu.cn/) (BIT),
  where I was advised by Professor [Wei Liang](https://liangwei-bit.github.io/web/) 
