@@ -24,6 +24,9 @@ and was advised by Professor [Lap-Fai(Craig) Yu](https://craigyuyu.github.io/hom
 
 <span style="color:red;font-size:27px"><strong>NEWS!</strong></span>
 
+
+◆ [2025.11] Our paper “Large-scale Omnidirectional Person Positioning” has been accepted by **IEEE TPAMI**.
+<br>
 ◆ [2025.07] Our paper “Audio-Visual LLM for Augmenting Accessibility of 360° Video” has been accepted by **IEEE TCSVT**.
 <br>
 ◆ [2025.04] Our paper “Seeing What Matters: Empowering CLIP with Patch Generation-to-Selection” has been accepted by **CVPR 2025**.
